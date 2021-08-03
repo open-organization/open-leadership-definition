@@ -6,5 +6,5 @@ The Open Organization community uses files in this repository to maintain a defi
 ## Current version
 The current version is:
 
-1.0
+1.0  
 August 2021
